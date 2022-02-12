@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-12T05:33:21" hostname="user-no-MacBook-Pro.local" time="0.069">
+  <properties/>
+  <testcase name="main()" classname="MainTest" time="0.069"/>
+  <system-out><![CDATA[TestAccountに請求書を発行する
+Testの結果を出力：TestAccount様に300000円をTestInvoiceProcessorで請求しました
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
